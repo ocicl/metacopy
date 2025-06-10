@@ -1,0 +1,9 @@
+* metacopy
+
+flexibly shallow/deep copying library for Common Lisp
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/hraban/metacopy.git |
+| commit  | df7856f                                    |
+| systems | metacopy                                   |
+|---------+--------------------------------------------|
